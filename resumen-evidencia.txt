@@ -1,8 +1,0 @@
-    <url><![CDATA[http://127.0.0.1:8000/carpeta-lab/test.txt]]></url>
-    <port>8000</port>
-    <method><![CDATA[GET]]></method>
-    <path><![CDATA[/carpeta-lab/test.txt]]></path>
-    <status>200</status>
-    <responselength>202</responselength>
-    <mimetype>text</mimetype>
-    <host ip="127.0.0.1">127.0.0.1</host>
