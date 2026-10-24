@@ -1,0 +1,6 @@
+Hallazgo: listado de directorios habilitado
+Ruta: /carpeta-lab/
+Resultado: HTTP 200 OK
+Evidencia: se muestran archivo de prueba.txt y test.txt
+Impacto: podría revelar nombres de archivos si el directorio contiene información sensible.
+Nota: comportamiento observado en el laboratorio local de Python.
